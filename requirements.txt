@@ -1,0 +1,9 @@
+geopandas
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+folium
+fastparquet
+openpyxl
