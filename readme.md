@@ -29,3 +29,7 @@ The script outputs a tract-level CSV file along with map and plot visualizations
 - `index.html`
 - `tier3_by_risk_tier.png`
 - `rent_gap_vs_diversity.png`
+
+## Data Availability
+
+Data is available upon request and can also be accessed via Zenodo: https://zenodo.org/records/16907864
