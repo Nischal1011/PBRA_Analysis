@@ -14,7 +14,7 @@ pip install -r requirements.txt
 
 1. Acquire the necessary input files:
    - `Active and Inconclusive Properties.xlsx` from the NHPD.
-   - `data/acs5_2023_tract_preservation_risk_data.parquet` containing ACS data.
+   - `acs5_2023_tract_preservation_risk_data.parquet` containing ACS data.
 2. Run the analysis script:
 
 ```bash
